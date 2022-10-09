@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="[styles.css](https://github.com/kdeobald/kdeobald.github.io/blob/4b80238bd85124ec2bd9777f65918c1684d0ca0b/styles.css)">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.2.0/css/all.css" crossorigin="anonymous">
  <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
