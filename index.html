@@ -42,7 +42,7 @@
 
       <div class="project-tile" id="techdoc">
         <h3>Survey Form</h3>
-        <a href="https://kdeobald.github.io/"><img src="https://res.cloudinary.com/dawl1cmui/image/upload/v1678930031/Screenshots%20For%20Portfolio/Thumbnail_0002_FormScreenshot_dwrxos.jpg"></a>
+        <a href="https://kdeobald.github.io/survey/"><img src="https://res.cloudinary.com/dawl1cmui/image/upload/v1678930031/Screenshots%20For%20Portfolio/Thumbnail_0002_FormScreenshot_dwrxos.jpg"></a>
       </div>
     </section>
   </body>
