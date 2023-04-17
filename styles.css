@@ -1,0 +1,117 @@
+
+#image {
+  max-width: 100%;
+  display: block;
+  margin: auto;
+}
+
+body {
+  font-family: 'Antonio'; 
+  background-color: black;
+  color: orange;
+  font-size: 20px;
+  }
+
+
+
+h1 {  
+  display: block;
+  font-family: 'Orbitron';
+  font-style: italic;
+  font-size: 6vw;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  background: #24272b;
+  border-left: 7vw solid orange;
+  border-right: 5vw solid orange;
+  border-radius: 22px 5px 0px 0px;
+
+}
+
+a {
+  color: orange;
+  font-style: normal;
+}
+
+
+blockquote {
+  display: block;
+  font-style: italic;
+  font-size: 1.5vh;
+  font-family: 'Antonio';
+  margin: 10px;
+  text-align: center;
+  background: #24272b;
+  border-left: 7vw solid orange;
+  border-right: 5vw solid orange;
+  border-radius: 0px 0px 5px 5px;
+
+}
+
+#readmore {
+margin: 0px 10px;
+}
+
+#tribute-info {
+  border: 5px double orange;
+  border-right: none;
+  border-radius: 50px 0px 0px 10px;
+}
+
+#extrabox {
+  color: orange;
+  border-top: 20px solid orange;
+  border-left: 10px solid orange;
+  border-bottom: 10px solid orange;
+  border-right: none;
+  border-radius: 70px 10px 10px 8px;
+  margin: 10px 0px 0px 10px;
+  padding: 10px;
+  text-align: right
+}
+.box {
+  border-left: 5px double orange;
+  border-bottom: 2px double orange;
+  border-top: 2px double orange;
+  border-radius: 10px 0px 0px 10px;
+  border-right: 0px;
+  padding: 0px 0px 5px 5px;
+  width: 100%;
+}
+
+p {
+  margin: 10px;
+}
+
+#img-caption {
+  font-size: 1.2vh;
+  font-weight: 900;
+  text-align: center;
+  padding-top: 10px;
+}
+
+#img-div {
+  width: 80%;
+  margin: auto;
+  padding: 10px;
+}
+
+#img-caption a {
+  font-size: 0.8vh;
+  font-family: Arial;
+  text-decoration: none;
+}
+
+#border {
+  border-right: none;
+  border-bottom: none;
+  border-left: 10px solid orange;
+  border-top: 30px solid orange;
+  border-radius: 70px 0px;
+  text-align: right;
+}
+
+#bio {
+  text-align: left;
+}
