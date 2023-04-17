@@ -1,0 +1,131 @@
+/* Global */
+
+:root {
+  --burgundy: #6e0338;
+}
+
+ * {
+  margin: 0;
+  padding: 0;
+}
+
+ body {
+  padding-top: 50px;
+  background-color: black;
+  font-family: "Raleway";
+  position: relative;
+  color: white;
+  font-family: Helvetica;
+  width: 100%;
+}
+
+li {
+   padding: 8px;
+ }
+
+header {
+  position: re;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+}
+
+h1, h2, p {
+  padding: 0px 0px 8px 0px;
+}
+
+/* Nav */
+
+
+
+#navbar {
+   position: fixed;
+   top: 0;
+   background-color: var(--burgundy);
+   width: 100%;
+   height: auto;
+   color: var(--burgundy);
+ }
+
+  #nav-buttons {
+   display: flex;
+   flex-direction: row;
+   list-style: none;
+   font-weight: bold;
+   font-size: 16px;
+   line-height: 24px;
+   letter-spacing: 2px;
+   position: relative;
+   text-transform: uppercase;
+   justify-content: right;
+ }
+
+ .nav-link {
+   text-decoration: none;
+   color: white;
+   padding-right: 8px;
+ }
+
+ /* Content */
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+}
+
+#profile-link {
+  text-decoration: none;
+  color: white;
+  padding: 8px;
+  text-align: center;
+}
+
+.button {
+    background-color: var(--burgundy);
+    width: 200px;
+    padding: 8px 4px;
+    margin: auto;
+}
+
+#projects {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+}
+
+#welcome-section {
+text-align: center;
+margin: auto;
+width: 90%;
+padding: 16px;
+}
+
+#content {
+  margin: auto;
+  width: 100%;
+}
+
+.project-tile {
+  padding: 16px;
+}
+
+
+/* Mobile */
+
+
+@media only screen and (min-width: 1800px) {
+
+h1 {
+  font-size: 90px;
+}
+}
