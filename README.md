@@ -37,7 +37,7 @@
 
       <div class="project-tile" id="techdoc">
         <h3>Technical Documentation Page</h3>
-        <a href="https://kdeobald.github.io/"><img src="https://res.cloudinary.com/dawl1cmui/image/upload/v1678930033/Screenshots%20For%20Portfolio/Thumbnail_0001_technicaldocscreenshot_ebg7xu.jpg"></a>
+        <a href="https://kdeobald.github.io/techdoc/"><img src="https://res.cloudinary.com/dawl1cmui/image/upload/v1678930033/Screenshots%20For%20Portfolio/Thumbnail_0001_technicaldocscreenshot_ebg7xu.jpg"></a>
       </div>
 
       <div class="project-tile" id="techdoc">
