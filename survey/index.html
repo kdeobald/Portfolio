@@ -1,0 +1,77 @@
+
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+  </head>
+  <body>
+    <div id="form-content">
+    <h1 id="title">Survey Form</h1>
+    <p id="description">Thank you for participating in our user survey.</p>
+    <form id="survey-form">
+    <fieldset>
+        <label id="name-label">
+          Name: 
+            <input id="name" type="text" placeholder="John Doe" required>
+        </label>
+    </fieldset>
+    <fieldset>
+        <label id="email-label">
+          Email: 
+            <input id="email" type="email" placeholder="john@johndoe.com" required>
+        </label>
+    </fieldset>
+    <fieldset>
+        <label id="number-label"> Please rate your experience: 
+            <input id="number" type="number" min="1" max="5" placeholder="1-5">
+    </fieldset>
+    <fieldset>
+            <label for="dropdown">How did you hear about us?</label>
+            <select name="dropdown" id="dropdown">
+            <option>Select One</option>
+            <option value="google">Google Search</option>
+            <option value="social">Social Media</option>
+            <option value="school">School</option>
+            <option value="other">Other</option>
+            </select>
+    </fieldset>
+    <fieldset>
+      <div id="emailupdates">
+        <label>Would you like e-mail updates?</label>
+        </div>
+        <div class="updates">
+          <label for="yes">Yes</label>
+            <input type="radio" name="radio" id="yes" value="yes" class="inline">
+        </div>
+        <div class="updates">
+          <label for="no">No</label>
+            <input type="radio" name="radio" value="no" id="no" class="inline">
+        </div>
+    </fieldset>
+    <fieldset>
+          <label id="areaofinterest">Please indicate your areas of interest:</label>
+          <div class="interests">
+          <input type="checkbox" name="webdesign" class="inline" value="webdesign" />WEB DESIGN
+          </div>
+          <div class="interests">
+          <input type="checkbox" name="Photoshop" class="inline" value="photoshop" />PHOTOSHOP
+          </div>
+          <div class="interests">
+          <input type="checkbox" name="other" class="inline" value="other" />OTHER
+			  </label>
+        </div>
+    </fieldset>
+    <fieldset>
+        <label id="feedbacklabel">Please provide Feedback: <textarea placeholder="Add your comments" id="feedbacktext"></textarea>
+        </label>
+        </fieldset>
+        <div id="submit-button">
+        <input type="submit" id="submit">
+        </div>
+    </form>
+    </div>
+  </body>
+</html>
