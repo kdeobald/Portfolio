@@ -26,27 +26,35 @@
 
     <section id="projects">
       <div class="project-tile" id="petshop">
-        <h3 id="Work">Store Landing Page</h3>
-        <a href="https://kdeobald.github.io/petshop/index.html"><img src="https://res.cloudinary.com/dawl1cmui/image/upload/v1678930031/Screenshots%20For%20Portfolio/Thumbnail_0000_ProductLandingPageScreenshot_rclujd.jpg"></a>
-        <p>For this project, the course goal was a landing page but this did not fit with my learning goals at the time so I did a parody store landing page instead. I wrote all the copy and did all the UI design in Figma, then recreated it within the limitations of what I could achieve without any Javascript in the Free Code Camp editor.</p>
+        <a href="https://kdeobald.github.io/petshop/index.html">
+          <h3 id="Work" class="project-title">Store Landing Page</h3>
+          <img src="https://res.cloudinary.com/dawl1cmui/image/upload/v1678930031/Screenshots%20For%20Portfolio/Thumbnail_0000_ProductLandingPageScreenshot_rclujd.jpg">
+        </a>
+        <p class="project-p">For this project, the course goal was a landing page but this did not fit with my learning goals at the time so I did a parody store landing page instead. I wrote all the copy and did all the UI design in Figma, then recreated it within the limitations of what I could achieve without any Javascript in the Free Code Camp editor.</p>
       </div>
 
       <div class="project-tile" id="kirk">
-        <h3>Tribute Page</h3>
-        <a href="https://kdeobald.github.io/tributepage/"><img src="https://res.cloudinary.com/dawl1cmui/image/upload/v1678930030/Screenshots%20For%20Portfolio/Thumbnail_0003_kirk1_r28zun.jpg"></a>
-        <p>I am a huge nerd, so for this project I wanted to make a wiki entry about Kirk, but done with the UI style used on all the touch screens from Star Trek: The Next Generation.</p>
+        <a href="https://kdeobald.github.io/tributepage/">
+          <h3 class="project-title">Tribute Page</h3>
+          <img src="https://res.cloudinary.com/dawl1cmui/image/upload/v1678930030/Screenshots%20For%20Portfolio/Thumbnail_0003_kirk1_r28zun.jpg">
+        </a>
+        <p class="project-p">I am a huge nerd, so for this project I wanted to make a wiki entry about Kirk, but done with the UI style used on all the touch screens from Star Trek: The Next Generation.</p>
       </div>
 
       <div class="project-tile" id="techdoc">
-        <h3>Technical Documentation Page</h3>
-        <a href="https://kdeobald.github.io/techdoc/"><img src="https://res.cloudinary.com/dawl1cmui/image/upload/v1678930033/Screenshots%20For%20Portfolio/Thumbnail_0001_technicaldocscreenshot_ebg7xu.jpg"></a>
-        <p>Given the volume of data I wanted to put in just for the practice, I stuck pretty close to requirements for this one as well. All text content was copied from the course example, but the code is my own.</p>
+        <a href="https://kdeobald.github.io/techdoc/">
+          <h3 class="project-title">Technical Documentation Page</h3>
+          <img src="https://res.cloudinary.com/dawl1cmui/image/upload/v1678930033/Screenshots%20For%20Portfolio/Thumbnail_0001_technicaldocscreenshot_ebg7xu.jpg">
+        </a>
+        <p class="project-p">Given the volume of data I wanted to put in just for the practice, I stuck pretty close to requirements for this one as well. All text content was copied from the course example, but the code is my own.</p>
       </div>
 
       <div class="project-tile" id="techdoc">
-        <h3>Survey Form</h3>
-        <a href="https://kdeobald.github.io/survey/"><img src="https://res.cloudinary.com/dawl1cmui/image/upload/v1678930031/Screenshots%20For%20Portfolio/Thumbnail_0002_FormScreenshot_dwrxos.jpg"></a>
-        <p>As this was one of my earlier assignments, I stuck pretty close to the requirements.</p>
+        <a href="https://kdeobald.github.io/survey/">
+          <h3 class="project-title">Survey Form</h3>
+          <img src="https://res.cloudinary.com/dawl1cmui/image/upload/v1678930031/Screenshots%20For%20Portfolio/Thumbnail_0002_FormScreenshot_dwrxos.jpg">
+       </a>
+        <p class="project-p">As this was one of my earlier assignments, I stuck pretty close to the requirements.</p>
       </div>
     </section>
   </body>
