@@ -117,8 +117,24 @@ padding: 16px;
 
 .project-tile {
   padding: 16px;
+  border: 2px;
+  border-color: #FFFFFF;
+  border-style: dotted;
+  margin: 10px;
+  
 }
 
+.project-p {
+  max-width: 400px;
+  padding: 10px;
+  font-size: 15px;
+}
+
+.project-title {
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+}
 
 /* Mobile */
 
