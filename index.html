@@ -5,6 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Coding Portfolio</title>
     <link rel="stylesheet" href="styles.css">
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200;300&display=swap" rel="stylesheet">
+
   </head>
   <navbar id="navbar">
     <ul id="nav-buttons">
@@ -17,8 +21,9 @@
   </navbar>
   <body>
     <section id="welcome-section">
-      <h1>Welcome to my Web Development portfolio.</h1>
-      <p id="About">Each of these projects were completed with pure HTML & CSS according to specific course parameters. I am currently studying Javascript, so more content will be coming soon. You can view my certifications with Free Code Camp thus far by clicking the button below.</p>
+      <h1>Welcome to my portfolio!<br></h1>
+      <h2>All my coding projects live here.</h2>
+      <p id="About">Each of the projects below were completed with pure HTML & CSS according to specific parameters. I am currently studying Javascript, so more varied content will be coming soon. You can view my certifications with Free Code Camp thus far by clicking the button below.</p>
      <div class="button">
         <a href="https://www.freecodecamp.org/certification/kdeobald/responsive-web-design" target="_blank" id="profile-link" >View My Certifications</a>
       </div>
