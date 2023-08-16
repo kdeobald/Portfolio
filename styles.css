@@ -89,7 +89,7 @@ header {
   z-index: 999;
 }
 
-#profile-link {
+.profile-link {
   text-decoration: none;
   color: white;
   padding: 8px;
