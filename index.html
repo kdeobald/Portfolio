@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Coding Portfolio</title>
+    <title>Coding & Marketing Portfolio</title>
     <link rel="stylesheet" href="styles.css">
  <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -23,10 +23,24 @@
     <section id="welcome-section">
       <h1>Welcome to my portfolio!<br></h1>
       <h2>All my coding projects live here.</h2>
-      <p id="About">Each of the projects below were completed with pure HTML & CSS according to specific parameters. I am currently studying Javascript, so more varied content will be coming soon. You can view my certifications with Free Code Camp thus far by clicking the button below.</p>
+      <p id="About">Each of the projects below were completed with pure HTML & CSS according to specific parameters for my FreeCodeCamp course. I am currently studying Javascript, so more varied content will be coming soon. My certifications will be listed below as they are completed.</p>
      <div class="button">
         <a href="https://www.freecodecamp.org/certification/kdeobald/responsive-web-design" target="_blank" id="profile-link" >View My Certifications</a>
       </div>
+      <!-- Begin: HubSpot Academy - Inbound Badge -->
+<div class='academy-badge'>
+<a href='https://app.hubspot.com/academy/achievements/5ktznpfx/en/1/katie-deobald/inbound' title='Inbound'>
+<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/02788b913fd04048b29ccc5c79e958b0.png' />
+</a>
+</div>
+<!-- End: HubSpot Academy - Inbound Badge -->
+      <!-- Begin: HubSpot Academy - HubSpot Marketing Software Badge -->
+<div class='academy-badge'>
+<a href='https://app.hubspot.com/academy/achievements/kdmsgp86/en/1/katie-deobald/hubspot-marketing-software' title='HubSpot Marketing Software'>
+<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/bc7a2cc9972148cead32af7cbecf9b4a.png' />
+</a>
+</div>
+<!-- End: HubSpot Academy - HubSpot Marketing Software Badge -->
     </section>
 
     <section id="projects">
