@@ -25,13 +25,13 @@
       <h2>All my coding and marketing projects live here.</h2>
       <p id="About">Each of the projects below were completed with pure HTML & CSS according to specific parameters for my FreeCodeCamp course. I am currently studying Javascript, so more varied content will be coming soon. My certifications will be listed below as they are completed.</p>
      <div class="button">
-        <a href="https://www.freecodecamp.org/certification/kdeobald/responsive-web-design" target="_blank" id="profile-link" >Responsive Website Design - Free Code Camp - March 2023</a>
+        <a href="https://www.freecodecamp.org/certification/kdeobald/responsive-web-design" target="_blank" class="profile-link" >Responsive Website Design - Free Code Camp - March 2023</a>
       </div>
 <div class='button'>
-<a href='https://app.hubspot.com/academy/achievements/5ktznpfx/en/1/katie-deobald/inbound'  target="_blank" " >Inbound Certified - Hubspot Academy 2023</a>
+<a href='https://app.hubspot.com/academy/achievements/5ktznpfx/en/1/katie-deobald/inbound'  target="_blank" class="profile-link" >Inbound Certified - Hubspot Academy 2023</a>
 </div>
 <div class='button'>
-<a href='https://app.hubspot.com/academy/achievements/kdmsgp86/en/1/katie-deobald/hubspot-marketing-software' target="_blank" >Marketing Software Certified - Hubspot Academy 2023</a>
+<a href='https://app.hubspot.com/academy/achievements/kdmsgp86/en/1/katie-deobald/hubspot-marketing-software' target="_blank" class="profile-link" >Marketing Software Certified - Hubspot Academy 2023</a>
 </div>
     </section>
 
