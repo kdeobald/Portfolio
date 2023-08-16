@@ -27,16 +27,12 @@
      <div class="button">
         <a href="https://www.freecodecamp.org/certification/kdeobald/responsive-web-design" target="_blank" id="profile-link" >Responsive Website Design - Free Code Camp - March 2023</a>
       </div>
-      <!-- Begin: HubSpot Academy - Inbound Badge -->
 <div class='button'>
-<a href='https://app.hubspot.com/academy/achievements/5ktznpfx/en/1/katie-deobald/inbound' title='Inbound'>Inbound Certified - Hubspot Academy 2023</a>
+<a href='https://app.hubspot.com/academy/achievements/5ktznpfx/en/1/katie-deobald/inbound'  target="_blank" " >Inbound Certified - Hubspot Academy 2023</a>
 </div>
-<!-- End: HubSpot Academy - Inbound Badge -->
-      <!-- Begin: HubSpot Academy - HubSpot Marketing Software Badge -->
 <div class='button'>
-<a href='https://app.hubspot.com/academy/achievements/kdmsgp86/en/1/katie-deobald/hubspot-marketing-software' title='HubSpot Marketing Software'>Marketing Software Certified - Hubspot Academy 2023</a>
+<a href='https://app.hubspot.com/academy/achievements/kdmsgp86/en/1/katie-deobald/hubspot-marketing-software' target="_blank" >Marketing Software Certified - Hubspot Academy 2023</a>
 </div>
-<!-- End: HubSpot Academy - HubSpot Marketing Software Badge -->
     </section>
 
     <section id="projects">
