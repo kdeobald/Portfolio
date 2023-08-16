@@ -22,23 +22,19 @@
   <body>
     <section id="welcome-section">
       <h1>Welcome to my portfolio!<br></h1>
-      <h2>All my coding projects live here.</h2>
+      <h2>All my coding and marketing projects live here.</h2>
       <p id="About">Each of the projects below were completed with pure HTML & CSS according to specific parameters for my FreeCodeCamp course. I am currently studying Javascript, so more varied content will be coming soon. My certifications will be listed below as they are completed.</p>
      <div class="button">
-        <a href="https://www.freecodecamp.org/certification/kdeobald/responsive-web-design" target="_blank" id="profile-link" >View My Certifications</a>
+        <a href="https://www.freecodecamp.org/certification/kdeobald/responsive-web-design" target="_blank" id="profile-link" >Responsive Website Design - Free Code Camp - March 2023</a>
       </div>
       <!-- Begin: HubSpot Academy - Inbound Badge -->
-<div class='academy-badge'>
-<a href='https://app.hubspot.com/academy/achievements/5ktznpfx/en/1/katie-deobald/inbound' title='Inbound'>
-<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/02788b913fd04048b29ccc5c79e958b0.png' />
-</a>
+<div class='button'>
+<a href='https://app.hubspot.com/academy/achievements/5ktznpfx/en/1/katie-deobald/inbound' title='Inbound'>Inbound Certified - Hubspot Academy 2023</a>
 </div>
 <!-- End: HubSpot Academy - Inbound Badge -->
       <!-- Begin: HubSpot Academy - HubSpot Marketing Software Badge -->
-<div class='academy-badge'>
-<a href='https://app.hubspot.com/academy/achievements/kdmsgp86/en/1/katie-deobald/hubspot-marketing-software' title='HubSpot Marketing Software'>
-<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/bc7a2cc9972148cead32af7cbecf9b4a.png' />
-</a>
+<div class='button'>
+<a href='https://app.hubspot.com/academy/achievements/kdmsgp86/en/1/katie-deobald/hubspot-marketing-software' title='HubSpot Marketing Software'>Marketing Software Certified - Hubspot Academy 2023</a>
 </div>
 <!-- End: HubSpot Academy - HubSpot Marketing Software Badge -->
     </section>
